@@ -1,5 +1,5 @@
 # CanBee-FSW-2022
-The source code of Çankaya University CanBee Team's 2022 Flight Software.
+The source code of Çankaya University CanBee Team's 2022 Flight Software. A _very_ cleaned-up version.
 
 I've wrote the main developer of this in 2020 and 2021. 2022 competition mostly used the same code with some adjustments made by [Burak Geçer](https://github.com/burakgecer) and Berkay Apalı.
 
