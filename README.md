@@ -1,5 +1,5 @@
 # CanBee-FSW-2022
-The source code of Çankaya University CanBee Team's 2022 Flight Software. A _very_ cleaned-up version.
+The source code of Çankaya University CanBee Team's 2022 [CanSat competition](https://cansatcompetition.com/) Flight Software. A _very_ cleaned-up version. This is the code that was running on the second place winner of the competition!
 
 I've wrote the main developer of this in 2020 and 2021. 2022 competition mostly used the same code with some adjustments made by [Burak Geçer](https://github.com/burakgecer) and [Berkay Apalı](https://github.com/berkayapali). [Samet](https://github.com/sametefekan) and I wrote the PID code for gimbal, which is probably the most complicated thing we had this year. 
 
